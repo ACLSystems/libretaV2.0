@@ -1,6 +1,6 @@
 # [Libreta](https://www.superatemexico.com)
 
-![version](https://img.shields.io/badge/version-2.3.0-blue.svg)
+![version](https://img.shields.io/badge/version-2.0.0-blue.svg)
 
 Libreta es un producto para la gestión del aprendizaje. Diseñado originalmente para el Conalep, Libreta está pensado para funcionar en la nube.
 
